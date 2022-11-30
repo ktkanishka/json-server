@@ -1,1 +1,6 @@
-{ “status”: 200, “message”: “You have successfully created the account”, “data”: [] }
+{
+  "status": 200,
+  "message": "You have successfully created the account",
+  "data": [
+  ]
+}
